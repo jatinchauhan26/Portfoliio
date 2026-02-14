@@ -38,43 +38,43 @@ const counterItems = [
   { value: 3, suffix: "+", label: "Projects Completed" },
   { value: 2, suffix: "+", label: "Projects Deployed" },
   { value: 20, suffix: "+", label: "Total Problem solved" },
-  { value: 7 , suffix: "%", label: "Achievements" },
+  { value: 7 , suffix: "+", label: "Achievements" },
 ];
 
 const logoIconsList = [
   {
-    imgPath: "/images/logos/company-logo-1.jpeg",
+    imgPath: "/images/logos/skill-logo-1.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-2.jpeg",
+    imgPath: "/images/logos/skill-logo-2.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-3.jpeg",
+    imgPath: "/images/logos/skill-logo-3.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-4.png",
+    imgPath: "/images/logos/skill-logo-4.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-5.png",
+    imgPath: "/images/logos/skill-logo-5.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-6.png",
+    imgPath: "/images/logos/skill-logo-6.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-7.png",
+    imgPath: "/images/logos/skill-logo-7.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-8.png",
+    imgPath: "/images/logos/skill-logo-8.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-9.png",
+    imgPath: "/images/logos/skill-logo-9.jpeg",
   },
   {
-    imgPath: "/images/logos/company-logo-10.png",
+    imgPath: "/images/logos/skill-logo-10.jpeg",
   },
-  {
-    imgPath: "/images/logos/company-logo-11.png",
-  },
+  // {
+  //   imgPath: "/images/logos/company-logo-11.png",
+  // },
 ];
 
 const abilities = [
